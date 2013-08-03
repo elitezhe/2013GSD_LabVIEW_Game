@@ -20,8 +20,11 @@
 			<Item Name="IsMouseWithinCTRL.vi" Type="VI" URL="../IsMouseWithinCTRL.vi"/>
 		</Item>
 		<Item Name="TeatDemo" Type="Folder">
+			<Item Name="BackgroundRunVI.vi" Type="VI" URL="../BackgroundRunVI.vi"/>
+			<Item Name="BackgroundVI.vi" Type="VI" URL="../BackgroundVI.vi"/>
 			<Item Name="CursorDrag.vi" Type="VI" URL="../CursorDrag.vi"/>
 			<Item Name="LabelDrag.vi" Type="VI" URL="../LabelDrag.vi"/>
+			<Item Name="LabelDragMultiThearding.vi" Type="VI" URL="../LabelDragMultiThearding.vi"/>
 		</Item>
 		<Item Name="Type Definition" Type="Folder">
 			<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
@@ -33,6 +36,7 @@
 		<Item Name="XControl" Type="Folder">
 			<Item Name="WaveGraphX.xctl" Type="XControl" URL="../WaveGraphX.xctl"/>
 		</Item>
+		<Item Name="NISAST Event.lvclass" Type="LVClass" URL="/&lt;resource&gt;/importtools/Common/Event/NISAST Event.lvclass"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Legend.vi" Type="VI" URL="/&lt;vilib&gt;/picture/radarplt.llb/Draw Legend.vi"/>

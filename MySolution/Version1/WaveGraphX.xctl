@@ -22,4 +22,7 @@
 	<Item Name="WaveGraph_Facade.vi" Type="Ability VI" URL="../WaveGraph_Facade.vi">
 		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
 	</Item>
+	<Item Name="WaveGraph_UnInit.vi" Type="Ability VI" URL="../WaveGraph_UnInit.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
+	</Item>
 </XControl>
