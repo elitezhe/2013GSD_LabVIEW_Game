@@ -16,20 +16,41 @@
 		<Item Name="MenuSrc" Type="Folder">
 			<Item Name="menu.rtm" Type="Document" URL="../menu.rtm"/>
 		</Item>
+		<Item Name="SupportVI" Type="Folder">
+			<Item Name="IsMouseWithinCTRL.vi" Type="VI" URL="../IsMouseWithinCTRL.vi"/>
+		</Item>
+		<Item Name="TeatDemo" Type="Folder">
+			<Item Name="CursorDrag.vi" Type="VI" URL="../CursorDrag.vi"/>
+			<Item Name="LabelDrag.vi" Type="VI" URL="../LabelDrag.vi"/>
+		</Item>
 		<Item Name="Type Definition" Type="Folder">
 			<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
 		</Item>
 		<Item Name="User Interface" Type="Folder">
 			<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
 		</Item>
+		<Item Name="Utility" Type="Folder"/>
 		<Item Name="XControl" Type="Folder">
 			<Item Name="WaveGraphX.xctl" Type="XControl" URL="../WaveGraphX.xctl"/>
 		</Item>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Draw Legend.vi" Type="VI" URL="/&lt;vilib&gt;/picture/radarplt.llb/Draw Legend.vi"/>
+				<Item Name="Draw Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rect.vi"/>
+				<Item Name="Draw Text in Rect(6_1).vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text in Rect(6_1).vi"/>
+				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="LVCursorListTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVCursorListTypeDef.ctl"/>
+				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
+				<Item Name="LVPointDoubleTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointDoubleTypeDef.ctl"/>
+				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
+				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
+				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build"/>
 	</Item>
