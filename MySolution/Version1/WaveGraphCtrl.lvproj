@@ -19,7 +19,8 @@
 		<Item Name="SupportVI" Type="Folder">
 			<Item Name="IsMouseWithinCTRL.vi" Type="VI" URL="../IsMouseWithinCTRL.vi"/>
 		</Item>
-		<Item Name="TeatDemo" Type="Folder">
+		<Item Name="TestDemo" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="BackgroundRunVI.vi" Type="VI" URL="../BackgroundRunVI.vi"/>
 			<Item Name="BackgroundVI.vi" Type="VI" URL="../BackgroundVI.vi"/>
 			<Item Name="CursorDrag.vi" Type="VI" URL="../CursorDrag.vi"/>
@@ -27,6 +28,8 @@
 			<Item Name="LabelDragMultiThearding.vi" Type="VI" URL="../LabelDragMultiThearding.vi"/>
 			<Item Name="MethodNodeSetCtrlVal.vi" Type="VI" URL="../MethodNodeSetCtrlVal.vi"/>
 			<Item Name="MethodNodeSetCtrlValDemo.vi" Type="VI" URL="../MethodNodeSetCtrlValDemo.vi"/>
+			<Item Name="PopupWindowCaller.vi" Type="VI" URL="../PopupWindowCaller.vi"/>
+			<Item Name="PopupWindow.vi" Type="VI" URL="../PopupWindow.vi"/>
 		</Item>
 		<Item Name="Type Definition" Type="Folder">
 			<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>

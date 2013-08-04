@@ -10,6 +10,9 @@
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
+	</Item>
 	<Item Name="WaveGrpah_Data.ctl" Type="Ability VI" URL="../WaveGrpah_Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
 	</Item>
@@ -26,5 +29,4 @@
 		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
 	</Item>
 	<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>
-	<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
 </XControl>
