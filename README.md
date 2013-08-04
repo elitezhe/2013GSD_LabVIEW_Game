@@ -5,6 +5,8 @@ By: ZhangZhe
 
 E-mail: zhangzhe.zhe@qq.com
 
+Powered By: LabVIEW 2012 专业版开发系统 32位(中文)
+
 ----------
 
 * 文件目录
