@@ -34,9 +34,6 @@
 		<Item Name="Type Definition" Type="Folder">
 			<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
 		</Item>
-		<Item Name="User Interface" Type="Folder">
-			<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
-		</Item>
 		<Item Name="Utility" Type="Folder"/>
 		<Item Name="XControl" Type="Folder">
 			<Item Name="WaveGraphX.xctl" Type="XControl" URL="../WaveGraphX.xctl"/>

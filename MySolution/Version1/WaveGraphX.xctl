@@ -10,7 +10,11 @@
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="User Interface" Type="Folder">
+		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
+	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="CallGraphAttr.vi" Type="VI" URL="../CallGraphAttr.vi"/>
 		<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
 	</Item>
 	<Item Name="WaveGrpah_Data.ctl" Type="Ability VI" URL="../WaveGrpah_Data.ctl">
