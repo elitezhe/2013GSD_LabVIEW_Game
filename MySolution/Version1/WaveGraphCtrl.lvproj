@@ -25,6 +25,8 @@
 			<Item Name="CursorDrag.vi" Type="VI" URL="../CursorDrag.vi"/>
 			<Item Name="LabelDrag.vi" Type="VI" URL="../LabelDrag.vi"/>
 			<Item Name="LabelDragMultiThearding.vi" Type="VI" URL="../LabelDragMultiThearding.vi"/>
+			<Item Name="MethodNodeSetCtrlVal.vi" Type="VI" URL="../MethodNodeSetCtrlVal.vi"/>
+			<Item Name="MethodNodeSetCtrlValDemo.vi" Type="VI" URL="../MethodNodeSetCtrlValDemo.vi"/>
 		</Item>
 		<Item Name="Type Definition" Type="Folder">
 			<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>

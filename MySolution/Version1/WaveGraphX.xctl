@@ -25,4 +25,5 @@
 	<Item Name="WaveGraph_UnInit.vi" Type="Ability VI" URL="../WaveGraph_UnInit.vi">
 		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
 	</Item>
+	<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>
 </XControl>
