@@ -10,6 +10,11 @@
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Type Definition" Type="Folder">
+		<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
+		<Item Name="GraphAttriCluster.ctl" Type="VI" URL="../GraphAttriCluster.ctl"/>
+		<Item Name="GraphStates.ctl" Type="VI" URL="../GraphStates.ctl"/>
+	</Item>
 	<Item Name="User Interface" Type="Folder">
 		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
 	</Item>
