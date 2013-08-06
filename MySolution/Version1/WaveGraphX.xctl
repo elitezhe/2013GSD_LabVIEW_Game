@@ -14,13 +14,18 @@
 		<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
 		<Item Name="GraphAttriCluster.ctl" Type="VI" URL="../GraphAttriCluster.ctl"/>
 		<Item Name="GraphStates.ctl" Type="VI" URL="../GraphStates.ctl"/>
+		<Item Name="RefCluster.ctl" Type="VI" URL="../RefCluster.ctl"/>
 	</Item>
 	<Item Name="User Interface" Type="Folder">
 		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="CallGraphAttr.vi" Type="VI" URL="../CallGraphAttr.vi"/>
+		<Item Name="ModifyWaveCTRLLocation.vi" Type="VI" URL="../ModifyWaveCTRLLocation.vi"/>
 		<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
+	</Item>
+	<Item Name="Daemon" Type="Folder">
+		<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>
 	</Item>
 	<Item Name="WaveGrpah_Data.ctl" Type="Ability VI" URL="../WaveGrpah_Data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
@@ -37,5 +42,4 @@
 	<Item Name="WaveGraph_UnInit.vi" Type="Ability VI" URL="../WaveGraph_UnInit.vi">
 		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
 	</Item>
-	<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>
 </XControl>

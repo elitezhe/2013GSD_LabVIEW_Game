@@ -30,7 +30,7 @@
 			<Item Name="MethodNodeSetCtrlValDemo.vi" Type="VI" URL="../MethodNodeSetCtrlValDemo.vi"/>
 			<Item Name="PopupWindowCaller.vi" Type="VI" URL="../PopupWindowCaller.vi"/>
 			<Item Name="PopupWindow.vi" Type="VI" URL="../PopupWindow.vi"/>
-			<Item Name="属性簇temp.vi" Type="VI" URL="../属性簇temp.vi"/>
+			<Item Name="AttriClusterTemp.vi" Type="VI" URL="../AttriClusterTemp.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder"/>
 		<Item Name="XControl" Type="Folder">
