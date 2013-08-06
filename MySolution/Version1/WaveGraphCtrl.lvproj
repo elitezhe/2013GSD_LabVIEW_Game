@@ -32,7 +32,6 @@
 			<Item Name="PopupWindow.vi" Type="VI" URL="../PopupWindow.vi"/>
 			<Item Name="AttriClusterTemp.vi" Type="VI" URL="../AttriClusterTemp.vi"/>
 		</Item>
-		<Item Name="Utility" Type="Folder"/>
 		<Item Name="XControl" Type="Folder">
 			<Item Name="WaveGraphX.xctl" Type="XControl" URL="../WaveGraphX.xctl"/>
 		</Item>
@@ -41,7 +40,9 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Legend.vi" Type="VI" URL="/&lt;vilib&gt;/picture/radarplt.llb/Draw Legend.vi"/>
 				<Item Name="Draw Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rect.vi"/>
+				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
 				<Item Name="Draw Text in Rect(6_1).vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text in Rect(6_1).vi"/>
+				<Item Name="Draw Text in Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text in Rect.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVCursorListTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVCursorListTypeDef.ctl"/>
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
