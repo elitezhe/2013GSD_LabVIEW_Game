@@ -12,6 +12,8 @@
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
 	<Item Name="Utility" Type="Folder">
 		<Item Name="WriteTextOnPicture.vi" Type="VI" URL="../WriteTextOnPicture.vi"/>
+		<Item Name="MakeCurInfo.vi" Type="VI" URL="../MakeCurInfo.vi"/>
+		<Item Name="WritePointToCurGraph.vi" Type="VI" URL="../WritePointToCurGraph.vi"/>
 	</Item>
 	<Item Name="Type Definition" Type="Folder">
 		<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
