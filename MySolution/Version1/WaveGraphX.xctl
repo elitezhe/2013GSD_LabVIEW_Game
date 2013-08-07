@@ -15,6 +15,7 @@
 		<Item Name="MakeCurInfo.vi" Type="VI" URL="../MakeCurInfo.vi"/>
 		<Item Name="WritePointToCurGraph.vi" Type="VI" URL="../WritePointToCurGraph.vi"/>
 		<Item Name="MakeLegend.vi" Type="VI" URL="../MakeLegend.vi"/>
+		<Item Name="CreateCursor.vi" Type="VI" URL="../CreateCursor.vi"/>
 		<Item Name="ShowHidePicCtrl.vi" Type="VI" URL="../ShowHidePicCtrl.vi"/>
 	</Item>
 	<Item Name="Type Definition" Type="Folder">
@@ -22,6 +23,7 @@
 		<Item Name="GraphAttriCluster.ctl" Type="VI" URL="../GraphAttriCluster.ctl"/>
 		<Item Name="GraphStates.ctl" Type="VI" URL="../GraphStates.ctl"/>
 		<Item Name="RefCluster.ctl" Type="VI" URL="../RefCluster.ctl"/>
+		<Item Name="WaveColorArray.ctl" Type="VI" URL="../WaveColorArray.ctl"/>
 	</Item>
 	<Item Name="User Interface" Type="Folder">
 		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
