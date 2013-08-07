@@ -15,6 +15,7 @@
 		<Item Name="MakeCurInfo.vi" Type="VI" URL="../MakeCurInfo.vi"/>
 		<Item Name="WritePointToCurGraph.vi" Type="VI" URL="../WritePointToCurGraph.vi"/>
 		<Item Name="MakeLegend.vi" Type="VI" URL="../MakeLegend.vi"/>
+		<Item Name="ShowHidePicCtrl.vi" Type="VI" URL="../ShowHidePicCtrl.vi"/>
 	</Item>
 	<Item Name="Type Definition" Type="Folder">
 		<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>

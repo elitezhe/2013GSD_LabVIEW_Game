@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Example" Type="Folder">
 			<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
+			<Item Name="Demo_Dynamic.vi" Type="VI" URL="../Demo_Dynamic.vi"/>
 		</Item>
 		<Item Name="MenuSrc" Type="Folder">
 			<Item Name="menu.rtm" Type="Document" URL="../menu.rtm"/>
