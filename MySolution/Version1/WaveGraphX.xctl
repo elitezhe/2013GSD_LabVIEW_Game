@@ -10,13 +10,8 @@
 	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
 	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
 	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
-	<Item Name="Utility" Type="Folder">
-		<Item Name="WriteTextOnPicture.vi" Type="VI" URL="../WriteTextOnPicture.vi"/>
-		<Item Name="MakeCurInfo.vi" Type="VI" URL="../MakeCurInfo.vi"/>
-		<Item Name="WritePointToCurGraph.vi" Type="VI" URL="../WritePointToCurGraph.vi"/>
-		<Item Name="MakeLegend.vi" Type="VI" URL="../MakeLegend.vi"/>
-		<Item Name="CreateCursor.vi" Type="VI" URL="../CreateCursor.vi"/>
-		<Item Name="ShowHidePicCtrl.vi" Type="VI" URL="../ShowHidePicCtrl.vi"/>
+	<Item Name="User Interface" Type="Folder">
+		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
 	</Item>
 	<Item Name="Type Definition" Type="Folder">
 		<Item Name="DataInType.ctl" Type="VI" URL="../DataInType.ctl"/>
@@ -25,13 +20,18 @@
 		<Item Name="RefCluster.ctl" Type="VI" URL="../RefCluster.ctl"/>
 		<Item Name="WaveColorArray.ctl" Type="VI" URL="../WaveColorArray.ctl"/>
 	</Item>
-	<Item Name="User Interface" Type="Folder">
-		<Item Name="GraphAttribute.vi" Type="VI" URL="../GraphAttribute.vi"/>
-	</Item>
-	<Item Name="SubVIs" Type="Folder">
+	<Item Name="Utility" Type="Folder">
+		<Item Name="WriteTextOnPicture.vi" Type="VI" URL="../WriteTextOnPicture.vi"/>
+		<Item Name="MakeCurInfo.vi" Type="VI" URL="../MakeCurInfo.vi"/>
+		<Item Name="IsMouseWithinCTRL.vi" Type="VI" URL="../IsMouseWithinCTRL.vi"/>
+		<Item Name="WritePointToCurGraph.vi" Type="VI" URL="../WritePointToCurGraph.vi"/>
+		<Item Name="MakeLegend.vi" Type="VI" URL="../MakeLegend.vi"/>
+		<Item Name="SetWaveLineColor.vi" Type="VI" URL="../SetWaveLineColor.vi"/>
+		<Item Name="CreateCursor.vi" Type="VI" URL="../CreateCursor.vi"/>
 		<Item Name="CallGraphAttr.vi" Type="VI" URL="../CallGraphAttr.vi"/>
 		<Item Name="ModifyWaveCTRLLocation.vi" Type="VI" URL="../ModifyWaveCTRLLocation.vi"/>
 		<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
+		<Item Name="ShowHidePicCtrl.vi" Type="VI" URL="../ShowHidePicCtrl.vi"/>
 	</Item>
 	<Item Name="Daemon" Type="Folder">
 		<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>

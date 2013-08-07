@@ -17,9 +17,6 @@
 		<Item Name="MenuSrc" Type="Folder">
 			<Item Name="menu.rtm" Type="Document" URL="../menu.rtm"/>
 		</Item>
-		<Item Name="SupportVI" Type="Folder">
-			<Item Name="IsMouseWithinCTRL.vi" Type="VI" URL="../IsMouseWithinCTRL.vi"/>
-		</Item>
 		<Item Name="TestDemo" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="BackgroundRunVI.vi" Type="VI" URL="../BackgroundRunVI.vi"/>
@@ -32,6 +29,7 @@
 			<Item Name="PopupWindowCaller.vi" Type="VI" URL="../PopupWindowCaller.vi"/>
 			<Item Name="PopupWindow.vi" Type="VI" URL="../PopupWindow.vi"/>
 			<Item Name="AttriClusterTemp.vi" Type="VI" URL="../AttriClusterTemp.vi"/>
+			<Item Name="SetWaveColor.vi" Type="VI" URL="../SetWaveColor.vi"/>
 		</Item>
 		<Item Name="XControl" Type="Folder">
 			<Item Name="WaveGraphX.xctl" Type="XControl" URL="../WaveGraphX.xctl"/>
