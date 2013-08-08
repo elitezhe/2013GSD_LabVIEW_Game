@@ -15,9 +15,6 @@
 			<Item Name="Demo_Static.vi" Type="VI" URL="../Demo_Static.vi"/>
 			<Item Name="Demo_Dynamic.vi" Type="VI" URL="../Demo_Dynamic.vi"/>
 		</Item>
-		<Item Name="MenuSrc" Type="Folder">
-			<Item Name="menu.rtm" Type="Document" URL="../menu.rtm"/>
-		</Item>
 		<Item Name="TestDemo" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="BackgroundRunVI.vi" Type="VI" URL="../BackgroundRunVI.vi"/>

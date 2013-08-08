@@ -33,6 +33,9 @@
 		<Item Name="ModifyCTRLLocation.vi" Type="VI" URL="../ModifyCTRLLocation.vi"/>
 		<Item Name="ShowHidePicCtrl.vi" Type="VI" URL="../ShowHidePicCtrl.vi"/>
 	</Item>
+	<Item Name="MenuSrc" Type="Folder">
+		<Item Name="menu.rtm" Type="Document" URL="../menu.rtm"/>
+	</Item>
 	<Item Name="Daemon" Type="Folder">
 		<Item Name="XCTL_Background_Service.vi" Type="VI" URL="../XCTL_Background_Service.vi"/>
 	</Item>
