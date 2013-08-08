@@ -10,6 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Document" Type="Folder">
+			<Item Name="Readme.docx" Type="Document" URL="../MyDocuments/Readme.docx"/>
+			<Item Name="动态演示.gif" Type="Document" URL="../MyDocuments/动态演示.gif"/>
+		</Item>
 		<Item Name="Example" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Demo_Static.vi" Type="VI" URL="../Demo_Static.vi"/>
